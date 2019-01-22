@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">GUI fonts and Colors</string>
+    <string-array name="Colors">
+        <item>RED</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+        <item>YELLOW</item>
+        <item>MAGENTA</item>
+        <item>WHITE</item>
+        <item>BLACK</item>
+        <item>CYAN</item>
+    </string-array>
+    <string-array name="Size">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+    </string-array>
+    <string-array name="FontFamily">
+        <item>bold</item>
+        <item>oswalda</item>
+        <item>Pacifico</item>
+        <item>sans</item>
+        <item>Oswald-Bold</item>
+        <item>Oswald-BoldItalic</item>
+        <item>Oswald-DemiBold</item>
+        <item>Oswald-Demi-BoldItalic</item>
+        <item>Oswald-ExtraLight</item>
+        <item>Oswald-Extra-LightItalic</item>
+        <item>Oswald-Heavy</item>
+        <item>Oswald-HeavyItalic</item>
+        <item>Oswald-Light</item>
+        <item>Oswald-LightItalic</item>
+        <item>Oswald-Medium</item>
+        <item>Oswald-MediumItalic</item>
+        <item>Oswald-Regular</item>
+    </string-array>
+</resources>
